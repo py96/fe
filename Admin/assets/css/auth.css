@@ -1,25 +1,4 @@
-/*------------------------------------------------------------------
-* Bootstrap Simple Admin Template
-* Email: heyalexluna@gmail.com
-* Version: 1.1
-* Author: Alexis Luna
-* Copyright 2019 Alexis Luna
-* Website: https://github.com/mralexisluna/bootstrap-simple-admin-template
--------------------------------------------------------------------*/
 
-/*------------------------------------------------------------------
-[Table of contents]
-
-1. Body / #body
-2. Contents / #auth-content
-3. Cards / .card
-4. Miscellaneous
-5. Adjustments to dafault behaviors
--------------------------------------------------------------------*/
-
-/*------------------------------------------------------------------
-[1. Body / #body]
-*/
 body {
     background: #f1f1f1;
 }

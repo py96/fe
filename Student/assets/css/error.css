@@ -1,25 +1,4 @@
-/*------------------------------------------------------------------
-* Bootstrap Simple Admin Template
-* Email: heyalexluna@gmail.com
-* Version: 1.1
-* Author: Alexis Luna
-* Copyright 2019 Alexis Luna
-* Website: https://github.com/mralexisluna/bootstrap-simple-admin-template
--------------------------------------------------------------------*/
 
-/*------------------------------------------------------------------
-[Table of contents]
-
-1. Body / .wrapper
-2. Contents / .page
-3. Miscellaneous
-4. Adjustments to dafault behaviors
-5. Responsive properties
--------------------------------------------------------------------*/
-
-/*------------------------------------------------------------------
-[1. Body / .wrapper]
-*/
 @font-face {
     font-family: "Lato";
     font-style: normal;
